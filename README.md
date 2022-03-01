@@ -15,6 +15,9 @@ https://bscscan.com/address/0xe3d26ad5ff975b00dffd2d675bdc02818c58b317
 DollyPad MarketingTokenVault :
 https://bscscan.com/address/0x314766e23ff02011ae2810b03f0e310a72644a51
 
+DollyPad Platform Share :
+https://bscscan.com/address/0x6c3164dbeb83556a50501969bcc5b657bfe5aab7#code
+
 DollyPad P2P Controllers :
 https://bscscan.com/address/0x690ab19a0b6ca527a7c0708597479864524c79b7
 
